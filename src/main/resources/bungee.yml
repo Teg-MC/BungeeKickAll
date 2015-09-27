@@ -1,0 +1,4 @@
+name: ${project.artifactId}
+main: pw.teg.bungeekickall.BungeeKickAll
+version: ${project.version}
+author: Teg
